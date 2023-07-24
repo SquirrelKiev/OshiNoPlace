@@ -1,0 +1,15 @@
+{
+  "contact": "oshi no ko/senko",
+  "templates": [
+    {
+      "name": "topleft 4way collab",
+      "sources": [
+        "http://ub8qbd.satdump.org/placetemplates/topleftnew.png"
+      ],
+      "x": 736,
+      "y": 740
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
