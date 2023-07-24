@@ -1,0 +1,15 @@
+{
+  "contact": "oshi no ko/germany",
+  "templates": [
+    {
+      "name": "germany ai",
+      "sources": [
+        "https://media.discordapp.net/attachments/1132012939159818322/1133065240532226178/pixil-frame-0_67.png"
+      ],
+      "x": 2,
+      "y": 36
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
