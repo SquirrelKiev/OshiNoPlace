@@ -1,0 +1,15 @@
+{
+  "contact": "oshi no ko",
+  "templates": [
+    {
+      "name": "kanakane",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131604980579713144/1132862997954560010/FFF_KANAXAKANE_border.png"
+      ],
+      "x": 339,
+      "y": 717
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
